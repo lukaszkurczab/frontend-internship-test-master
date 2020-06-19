@@ -1,0 +1,16 @@
+.email-warning {
+  transform: translate(-12px, -5px);
+  width: 215px;
+  @include warning-box;
+}
+
+.password-warning {
+  transform: translateX(-35%);
+  width: 660px;
+  @include warning-box;
+}
+
+.terms-warning {
+  width: 220px;
+  @include warning-box;
+}

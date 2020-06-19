@@ -1,0 +1,10 @@
+@mixin warning-box {
+  background-color: #fff;
+  border: 1px solid rgb(194, 0, 0);
+  border-radius: 4px;
+  color: #3b3c40;
+  font-size: 14px;
+  padding: 0 10px;
+  position: absolute;
+  z-index: 10;
+}
